@@ -14,7 +14,7 @@ Referencia del diseño
 ![Kanban-board](https://user-images.githubusercontent.com/11076563/128603762-e0433ea7-36ce-4550-925c-eb68dea8e363.png)
 
 ## Especificaciones técnicas para el proyecto:
-- El frontend tiene que ser en node.js
+- El frontend y backend deberian usar react.js y node.js
 - Antes de ingresar al kanban debe existir un login, de otra forma no se puede acceder al tablero.
 - El esquema de base de datos debe utilizar MongoDB
 - Se acepta el uso de librerias para backend y frontend
